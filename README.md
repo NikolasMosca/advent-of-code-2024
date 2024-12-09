@@ -6,3 +6,6 @@ https://www.youtube.com/@nks-developer
 
 ### DAY 2
 [![Day 1](https://img.youtube.com/vi/Y5TWOTQOGc8/0.jpg)](https://www.youtube.com/watch?v=Y5TWOTQOGc8)
+
+### DAY 3
+[![Day 1](https://img.youtube.com/vi/rMp2mYPd82k/0.jpg)](https://www.youtube.com/watch?v=rMp2mYPd82k)

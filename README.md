@@ -15,3 +15,6 @@ https://www.youtube.com/@nks-developer
 
 ### DAY 5
 [![Advent of Code - Day 5](https://img.youtube.com/vi/XrRgxZC4d98/0.jpg)](https://www.youtube.com/watch?v=XrRgxZC4d98)
+
+### DAY 6
+[![Advent of Code - Day 6](https://img.youtube.com/vi/aTG6J8w2rOw/0.jpg)](https://www.youtube.com/watch?v=aTG6J8w2rOw)

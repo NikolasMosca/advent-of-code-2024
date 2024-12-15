@@ -38,8 +38,6 @@ const isValidPositionToMove = ({ blocksFreeSpace, blocksToMove }) => {
   return true;
 };
 
-//6304576712958 too high
-//6304576012713
 const moveFileBlocksWholeFile = ({ blocks }) => {
   let lastIndex = blocks.length;
   let prevLastIndex

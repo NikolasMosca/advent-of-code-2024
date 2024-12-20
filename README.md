@@ -27,3 +27,6 @@ https://www.youtube.com/@nks-developer
 
 ### DAY 9
 [![Advent of Code - Day 9](https://img.youtube.com/vi/jibJMvGL8dw/0.jpg)](https://www.youtube.com/watch?v=jibJMvGL8dw) 
+
+### DAY 10
+[![Advent of Code - Day 9](https://img.youtube.com/vi/oRZ5MsOBv-w/0.jpg)](https://www.youtube.com/watch?v=oRZ5MsOBv-w) 

@@ -33,3 +33,6 @@ https://www.youtube.com/@nks-developer
 
 ### DAY 11
 [![Advent of Code - Day 11](https://img.youtube.com/vi/D9T9Ky9H_fA/hqdefault.jpg)](https://www.youtube.com/watch?v=D9T9Ky9H_fA) 
+
+### DAY 12
+[![Advent of Code - Day 11](https://img.youtube.com/vi/MdR3UTW6adQ/hqdefault.jpg)](https://www.youtube.com/watch?v=MdR3UTW6adQ) 

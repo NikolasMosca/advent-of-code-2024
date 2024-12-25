@@ -1,0 +1,7 @@
+Button A: X+74, Y+74
+Button B: X+88, Y+16
+Prize: X=10698, Y=7818
+
+Button A: X+90, Y+35
+Button B: X+51, Y+65
+Prize: X=909, Y=760

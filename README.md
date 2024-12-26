@@ -35,4 +35,7 @@ https://www.youtube.com/@nks-developer
 [![Advent of Code - Day 11](https://img.youtube.com/vi/D9T9Ky9H_fA/hqdefault.jpg)](https://www.youtube.com/watch?v=D9T9Ky9H_fA) 
 
 ### DAY 12
-[![Advent of Code - Day 11](https://img.youtube.com/vi/MdR3UTW6adQ/hqdefault.jpg)](https://www.youtube.com/watch?v=MdR3UTW6adQ) 
+[![Advent of Code - Day 12](https://img.youtube.com/vi/MdR3UTW6adQ/hqdefault.jpg)](https://www.youtube.com/watch?v=MdR3UTW6adQ) 
+
+### DAY 12
+[![Advent of Code - Day 13](https://img.youtube.com/vi/NkQFkaF9hjM/hqdefault.jpg)](https://www.youtube.com/watch?v=NkQFkaF9hjM) 

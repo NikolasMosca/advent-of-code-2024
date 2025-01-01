@@ -45,3 +45,6 @@ https://www.youtube.com/@nks-developer
 
 ### DAY 15
 [![Advent of Code - Day 15](https://img.youtube.com/vi/AGl20-grsbg/hqdefault.jpg)](https://www.youtube.com/watch?v=AGl20-grsbg) 
+
+### DAY 16
+[![Advent of Code - Day 16](https://img.youtube.com/vi/SfWow01IeUg/hqdefault.jpg)](https://www.youtube.com/watch?v=SfWow01IeUg) 

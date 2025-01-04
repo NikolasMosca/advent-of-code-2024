@@ -48,3 +48,6 @@ https://www.youtube.com/@nks-developer
 
 ### DAY 16
 [![Advent of Code - Day 16](https://img.youtube.com/vi/SfWow01IeUg/hqdefault.jpg)](https://www.youtube.com/watch?v=SfWow01IeUg) 
+
+### DAY 17
+[![Advent of Code - Day 17](https://img.youtube.com/vi/osv77vxHM68/hqdefault.jpg)](https://www.youtube.com/watch?v=osv77vxHM68) 

@@ -57,3 +57,12 @@ https://www.youtube.com/@nks-developer
 
 ### DAY 19
 [![Advent of Code - Day 19](https://img.youtube.com/vi/WgmAeCzkk4k/hqdefault.jpg)](https://www.youtube.com/watch?v=WgmAeCzkk4k) 
+
+### DAY 20
+[![Advent of Code - Day 20](https://img.youtube.com/vi/f3H27Tm0D9c/hqdefault.jpg)](https://www.youtube.com/watch?v=f3H27Tm0D9c) 
+
+### DAY 21
+[![Advent of Code - Day 21](https://img.youtube.com/vi/qe28ctU6rV4/hqdefault.jpg)](https://www.youtube.com/watch?v=qe28ctU6rV4) 
+
+### DAY 22
+[![Advent of Code - Day 22](https://img.youtube.com/vi/XUwEC4QVeBc/hqdefault.jpg)](https://www.youtube.com/watch?v=XUwEC4QVeBc) 

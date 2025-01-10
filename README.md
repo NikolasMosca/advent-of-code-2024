@@ -66,3 +66,9 @@ https://www.youtube.com/@nks-developer
 
 ### DAY 22
 [![Advent of Code - Day 22](https://img.youtube.com/vi/XUwEC4QVeBc/hqdefault.jpg)](https://www.youtube.com/watch?v=XUwEC4QVeBc) 
+
+### DAY 23
+[![Advent of Code - Day 23](https://img.youtube.com/vi/z8TDbiiJ--Y/hqdefault.jpg)](https://www.youtube.com/watch?v=z8TDbiiJ--Y)
+
+### DAY 24
+[![Advent of Code - Day 24](https://img.youtube.com/vi/kyxCr-OOJtQ/hqdefault.jpg)](https://www.youtube.com/watch?v=kyxCr-OOJtQ)

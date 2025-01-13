@@ -1,4 +1,4 @@
-## Segui le altre sfide sul mio canale di YouTube!
+## Clicca sulle immagini per vedere il video di quella sfida!
 https://www.youtube.com/@nks-developer
 
 ### DAY 1
@@ -72,3 +72,6 @@ https://www.youtube.com/@nks-developer
 
 ### DAY 24
 [![Advent of Code - Day 24](https://img.youtube.com/vi/kyxCr-OOJtQ/hqdefault.jpg)](https://www.youtube.com/watch?v=kyxCr-OOJtQ)
+
+### DAY 25
+[![Advent of Code - Day 25](https://img.youtube.com/vi/EBVanWw4lKU/hqdefault.jpg)](https://www.youtube.com/watch?v=EBVanWw4lKU)
